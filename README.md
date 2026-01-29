@@ -1,4 +1,5 @@
 # ml-project-credit_risk-model
+# Application URL: https://ml-creditrisk-model.streamlit.app/
 
 Credit Risk Project
 
